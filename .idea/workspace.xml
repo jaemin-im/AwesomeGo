@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd19c71f-4f51-4414-8059-bbfdcafeb5b3" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/p14_99b.go" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/p15_array_with_for.go" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,7 +39,7 @@
       <file leaf-file-name="p12_random_switch.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/p12_random_switch.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
+            <state relative-caret-position="228">
               <caret line="16" column="21" lean-forward="false" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
               <folding>
                 <element signature="e#14#52#0" expanded="true" />
@@ -60,11 +60,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="p14_99b.go" pinned="false" current-in-tab="true">
+      <file leaf-file-name="p14_99b.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/p14_99b.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="304">
               <caret line="16" column="93" lean-forward="false" selection-start-line="16" selection-start-column="93" selection-end-line="16" selection-end-column="93" />
+              <folding>
+                <element signature="e#14#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="p15_array_with_for.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/p15_array_with_for.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
               <folding>
                 <element signature="e#14#26#0" expanded="true" />
               </folding>
@@ -113,6 +125,7 @@
         <option value="$PROJECT_DIR$/src/main/p12_random_switch.go" />
         <option value="$PROJECT_DIR$/src/main/p13_fizzbuzz.go" />
         <option value="$PROJECT_DIR$/src/main/p14_99b.go" />
+        <option value="$PROJECT_DIR$/src/main/p15_array_with_for.go" />
       </list>
     </option>
   </component>
@@ -143,7 +156,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -166,6 +178,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -190,15 +203,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build p14_99b.go">
-    <configuration name="go build p10_switch_multi_branch.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
-      <module name="AwesomeGo" />
-      <working_directory value="$PROJECT_DIR$/" />
-      <go_parameters value="-i" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/src/main/p10_switch_multi_branch.go" />
-      <directory value="$PROJECT_DIR$/" />
-    </configuration>
+  <component name="RunManager" selected="Go Build.go build p15_array_with_for.go">
     <configuration name="go build p11_switch_conditionals.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
       <module name="AwesomeGo" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -231,20 +236,28 @@
       <filePath value="$PROJECT_DIR$/src/main/p14_99b.go" />
       <directory value="$PROJECT_DIR$/" />
     </configuration>
+    <configuration name="go build p15_array_with_for.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="AwesomeGo" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/src/main/p15_array_with_for.go" />
+      <directory value="$PROJECT_DIR$/" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Go Build.go build p10_switch_multi_branch.go" />
-      <item index="1" class="java.lang.String" itemvalue="Go Build.go build p11_switch_conditionals.go" />
-      <item index="2" class="java.lang.String" itemvalue="Go Build.go build p12_random_switch.go" />
-      <item index="3" class="java.lang.String" itemvalue="Go Build.go build p13_fizzbuzz.go" />
-      <item index="4" class="java.lang.String" itemvalue="Go Build.go build p14_99b.go" />
+      <item index="0" class="java.lang.String" itemvalue="Go Build.go build p11_switch_conditionals.go" />
+      <item index="1" class="java.lang.String" itemvalue="Go Build.go build p12_random_switch.go" />
+      <item index="2" class="java.lang.String" itemvalue="Go Build.go build p13_fizzbuzz.go" />
+      <item index="3" class="java.lang.String" itemvalue="Go Build.go build p14_99b.go" />
+      <item index="4" class="java.lang.String" itemvalue="Go Build.go build p15_array_with_for.go" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Go Build.go build p14_99b.go" />
-        <item index="1" class="java.lang.String" itemvalue="Go Build.go build p13_fizzbuzz.go" />
-        <item index="2" class="java.lang.String" itemvalue="Go Build.go build p12_random_switch.go" />
-        <item index="3" class="java.lang.String" itemvalue="Go Build.go build p11_switch_conditionals.go" />
-        <item index="4" class="java.lang.String" itemvalue="Go Build.go build p10_switch_multi_branch.go" />
+        <item index="0" class="java.lang.String" itemvalue="Go Build.go build p15_array_with_for.go" />
+        <item index="1" class="java.lang.String" itemvalue="Go Build.go build p14_99b.go" />
+        <item index="2" class="java.lang.String" itemvalue="Go Build.go build p13_fizzbuzz.go" />
+        <item index="3" class="java.lang.String" itemvalue="Go Build.go build p12_random_switch.go" />
+        <item index="4" class="java.lang.String" itemvalue="Go Build.go build p11_switch_conditionals.go" />
       </list>
     </recent_temporary>
   </component>
@@ -285,6 +298,46 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/p10_switch_multi_branch.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="24" lean-forward="false" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <folding>
+            <element signature="e#14#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/p12_random_switch.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="16" column="21" lean-forward="false" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+          <folding>
+            <element signature="e#14#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/p13_fizzbuzz.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <element signature="e#14#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/p14_99b.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="93" lean-forward="false" selection-start-line="16" selection-start-column="93" selection-end-line="16" selection-end-column="93" />
+          <folding>
+            <element signature="e#14#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/p10_switch_multi_branch.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -601,17 +654,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/p11_switch_conditionals.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/p12_random_switch.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
+        <state relative-caret-position="228">
           <caret line="16" column="21" lean-forward="false" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
           <folding>
             <element signature="e#14#52#0" expanded="true" />
@@ -633,6 +678,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="16" column="93" lean-forward="false" selection-start-line="16" selection-start-column="93" selection-end-line="16" selection-end-column="93" />
+          <folding>
+            <element signature="e#14#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/p11_switch_conditionals.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/p15_array_with_for.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
           <folding>
             <element signature="e#14#26#0" expanded="true" />
           </folding>
